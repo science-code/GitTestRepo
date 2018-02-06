@@ -1,0 +1,2 @@
+This goes to branch b1
+Hello from master.
